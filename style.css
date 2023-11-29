@@ -1,0 +1,30 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+  }
+  h1{
+    color: red;
+  }
+  h4{
+    color:blue;
+    font-family:sans-serif;
+  }
+  body{
+    text-align: center;
+    background-color:#fad390 ;
+  }
+  button{
+    color:rgb(0, 255, 38);
+    background-color: blueviolet;
+    height:35px;
+    width:65px;
+  }
+  #div1{
+    background-color:#e58e26;
+    font-family: Calibri;
+}
